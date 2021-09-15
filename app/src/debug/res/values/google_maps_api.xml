@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9B:49:C7:19:90:E8:F7:CB:A0:5A:65:B9:29:0B:E5:E6:B0:F2:12:C4%3Bcom.vira.eyecareapplication
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.vira.eyecareapplication
+
+    SHA-1 certificate fingerprint:
+    9B:49:C7:19:90:E8:F7:CB:A0:5A:65:B9:29:0B:E5:E6:B0:F2:12:C4
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBaHGaZHy7Ps4jCI8OWdy6ONCFfu8QMJNE</string>
+</resources>
